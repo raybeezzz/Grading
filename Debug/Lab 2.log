@@ -1,0 +1,5 @@
+﻿  cCourse.cpp
+c:\users\raybe\source\repos\elex 4618\lab 2\ccourse.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\raybe\source\repos\elex 4618\lab 2\ccourse.cpp(338): warning C4129: '.': unrecognized character escape sequence
+c:\users\raybe\source\repos\elex 4618\lab 2\ccourse.cpp(374): warning C4018: '<': signed/unsigned mismatch
+  Lab 2.vcxproj -> C:\Users\raybe\source\repos\ELEX 4618\Debug\Lab 2.exe
